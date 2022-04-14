@@ -1,0 +1,80 @@
+[
+{
+  "popular": [
+    {
+	"name": "Nasi Goreng",
+    "image": "",
+    "rating": "5.0",
+    "deliveryTime": "45 minute",
+    "deliveryCharges": "Free Delivery",
+    "price": "10000",
+    "note": "Extra special"
+  },
+  {
+	"name": "Rendang",
+    "image": "",
+    "rating": "4.9",
+    "deliveryTime": "60 minute",
+    "deliveryCharges": "Free Delivery",
+    "price": "20000",
+    "note": "Special"
+  },
+  {
+	"name": "Nasi Padang",
+    "image": "",
+    "rating": "4.5",
+    "deliveryTime": "45 minute",
+    "deliveryCharges": "Free Delivery",
+    "price": "10000",
+    "note": "Chilly"
+  },
+  {
+	"name": "Indomie",
+    "image": "",
+    "rating": "5.0",
+    "deliveryTime": "20 minute",
+    "deliveryCharges": "Free Delivery",
+    "price": "7000",
+    "note": "Spicy"
+  },
+  ],
+  "recommended": [
+    {
+	"name": "Nasi Goreng",
+    "image": "",
+    "rating": "5.0",
+    "deliveryTime": "45 minute",
+    "deliveryCharges": "Free Delivery",
+    "price": "10000",
+    "note": "Extra special"
+  },
+  {
+	"name": "Rendang",
+    "image": "",
+    "rating": "4.9",
+    "deliveryTime": "60 minute",
+    "deliveryCharges": "Free Delivery",
+    "price": "20000",
+    "note": "Special"
+  },
+  {
+	"name": "Nasi Padang",
+    "image": "",
+    "rating": "4.5",
+    "deliveryTime": "45 minute",
+    "deliveryCharges": "Free Delivery",
+    "price": "10000",
+    "note": "Chilly"
+  },
+  {
+	"name": "Indomie",
+    "image": "",
+    "rating": "5.0",
+    "deliveryTime": "20 minute",
+    "deliveryCharges": "Free Delivery",
+    "price": "7000",
+    "note": "Spicy"
+  },
+  ]
+}
+]
